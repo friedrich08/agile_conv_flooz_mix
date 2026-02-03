@@ -1,0 +1,7 @@
+{
+  "name": "Convergence Mixx & Flooz",
+  "description": "Plateforme unifiée d'interopérabilité Mobile Money pour l'Afrique de l'Ouest.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
